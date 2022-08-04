@@ -9,7 +9,7 @@ Fan va mäktigt
 - Dansa
 - Pausa
 - Dansa
-- -Pausa
+- Pausa
 
 1. Första punkten
 2. Andra punkten
