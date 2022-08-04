@@ -14,5 +14,6 @@ Fan va mäktigt
 1. Första punkten
 2. Andra punkten
 
-**Fett** 
-'<div><p>Kolla</p></div>'
+**Fett**
+
+`<div><p>Kolla</p></div>`
